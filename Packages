@@ -1,0 +1,29 @@
+Package: com.sammour.ISLoader
+Name: WA Earlier Messages
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Load All Earlier Messages at once !!
+Maintainer: Ibrahim Sammour
+Author: Ibrahim Sammour
+Section: Tweaks
+Version: 2.1
+Filename: ./debs/WAEarlierMessages.deb
+Size : 287788 
+MD5sum : e6ec117ccdd13e469c2a76798b902748
+SHA1 : 44abf3d3e06e0099b358216d9521716e48e05f6f
+SHA256 : adf202f1b525ed2dca238ea0c8ec41e8c7e895bccdaa7867d4f1a9da2658e5b6
+
+Package: com.isammour.WAReminder
+Name: WhatsApp Reminder
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ibrahim Sammour
+Author: Ibrahim Sammour
+Section: Tweaks
+Filename: ./debs/WAReminder.deb
+Size : 57344 
+MD5sum : 10dc107d9dd9f492c985eaa7faa9890a
+SHA1 : 5a57be90f7af4fa6d7cd32ede8130cd0911243a7
+SHA256 : 96aa047be36c3c25cd5a3febdc6b72a54bab616db7ae6b27ac3a34cfe91d2099
