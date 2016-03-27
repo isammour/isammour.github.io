@@ -1,8 +1,12 @@
-Origin: Theos
-Label: Theos
+Origin: ISammour
+Label: ISammour Repository
 Suite: stable
 Version: 1.0
-Codename: theos
+Codename: tangelo
 Architectures: iphoneos-arm
 Components: main
-Description: Yay, Theos!
+Description: This source is for beta testing my tweaks
+MD5Sum:
+ 3d4b5bffacaa3e81df22d43800b8fadf 932 Packages
+ 4dc5c15de32d454033bf038b458177a5 569 Packages.bz2
+ 
