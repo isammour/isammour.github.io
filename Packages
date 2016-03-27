@@ -7,7 +7,7 @@ Maintainer: Ibrahim Sammour
 Author: Ibrahim Sammour
 Section: Tweaks
 Version: 2.1
-Filename: ./debs/WAEarlierMessages.deb
+Filename: debs/WAEarlierMessages.deb
 Size : 287788 
 MD5sum : e6ec117ccdd13e469c2a76798b902748
 SHA1 : 44abf3d3e06e0099b358216d9521716e48e05f6f
@@ -22,7 +22,7 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: Ibrahim Sammour
 Author: Ibrahim Sammour
 Section: Tweaks
-Filename: ./debs/WAReminder.deb
+Filename: debs/WAReminder.deb
 Size : 57344 
 MD5sum : 10dc107d9dd9f492c985eaa7faa9890a
 SHA1 : 5a57be90f7af4fa6d7cd32ede8130cd0911243a7
