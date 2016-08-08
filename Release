@@ -1,0 +1,8 @@
+Origin: isammour's repo
+Label: isammour's repo
+Suite: stable
+Version: 1.0
+Codename: isammour
+Architectures: iphoneos-arm
+Components: main
+Description: isammour's Cydia Repository
