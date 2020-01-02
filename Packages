@@ -16,7 +16,7 @@ Package: com.busuu.french.app
 Version: 0.0.1
 Section: Tweaks
 Maintainer: isammour <s1mm0ur@outlook.com>
-Depends: mobilesubstrate, WhatsApp
+Depends: mobilesubstrate, Busuu-fr
 Architecture: iphoneos-arm
 Filename: debs/BusuuPremium.deb
 Size: 4602
