@@ -1,28 +1,14 @@
-Package: com.isammour.WAMessagesCount
+Package: com.isammour.busuupremium
 Version: 0.0.1
 Section: Tweaks
-Maintainer: isammour <s1mm0ur@outlook.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/WAMessagesCount.deb
-Size: 4096
-MD5sum: 01463fc0b6aa599895567231b0fc37eb
-Description: Messages count for chats in whatsapp
-Name: WAMessagesCount
-Author: isammour <s1mm0ur@outlook.com>
-Depiction: http://isammour.com
-
-Package: com.busuu.french.app
-Version: 0.0.1
-Section: Tweaks
-Maintainer: isammour <s1mm0ur@outlook.com>
+Maintainer: Ibrahim Sammour
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/BusuuPremium.deb
 Size: 4602
-MD5sum: 0A452E3316AC0A7C7D2FDBD027A97D2D
-Description: Get Premium for free in Busuu app
+Installed-Size: 104
+MD5sum: 0a452e3316ac0a7c7d2fdbd027a97d2d
+Description: Busuu premium functionality for free
 Name: Busuu Premium
-Author: isammour <s1mm0ur@outlook.com>
-Depiction: http://isammour.com
+Author: Ibrahim Sammour
 
